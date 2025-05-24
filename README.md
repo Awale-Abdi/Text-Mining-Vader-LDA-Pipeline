@@ -1,9 +1,9 @@
 <h1 align="center">COVID-19 Twitter Sentiment & Topic Modeling: NLP-Driven Social Media Campaign Analysis</h1>
 
 ## 📊 Overview
-This solo project uses Natural Language Processing (NLP) and machine learning techniques to extract actionable insights from a COVID-19 Twitter dataset. Though originally a group assignment in a **Social Media Analytics** course, I independently completed all Python coding, text preprocessing, sentiment scoring, and topic modeling tasks. The final deliverables include a strategic analysis of public sentiment and engagement trends, visualized in Python and structured for real-world application in digital marketing and public health communication.
+This solo-developed NLP and machine learning project transforms raw Twitter data into actionable business intelligence. Originally part of a graduate-level **Social Media Analytics** course, I independently built the entire data pipeline—handling data cleaning, sentiment analysis, topic modeling, and visualization—then walked my MBA teammates through the project’s structure and insights. This allowed them to focus on creating our PowerPoint and final presentation video, where they demonstrated a solid grasp of the technical concepts and contributed insights.
 
-The dataset analyzed contains over 226,000 COVID-related tweets scraped during the pandemic. I applied advanced **text mining** and **NLP workflows** to generate insights that can improve future public service messaging on social platforms like Twitter (X), Facebook, and Instagram.
+By clearly communicating complex methods and findings, I enabled the team to confidently deliver a polished final presentation and recorded video submission.
 
 ## 📌 Key Business Questions Answered
 - **What was the public sentiment during the early COVID-19 pandemic?**
@@ -48,10 +48,12 @@ The dataset analyzed contains over 226,000 COVID-related tweets scraped during t
 - Built an end-to-end **NLP pipeline** from data ingestion to model interpretation.
 - Demonstrated **cross-functional data science capabilities** including:
   - Data engineering (cleaning & ETL),
-  - NLP (vectorization, topic modeling),
+  - NLP (vectorization, sentiment analysis, topic modeling),
   - Data visualization (matplotlib, seaborn, wordcloud),
   - Communication of technical results to non-technical stakeholders.
 - Developed in **Visual Studio Code** using **Jupyter Notebook**, ensuring reproducibility and clean modular code.
+- **Trained and briefed MBA teammates** on the full analytical workflow and findings, enabling them to confidently present the project via **PowerPoint and recorded video**.
+- Delivered all components—including code, analysis, training, and presentation assets—**within a tight deadline of just 2 days**.
 
 ## 📁 Project Structure
 
