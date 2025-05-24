@@ -96,8 +96,3 @@ If you're interested in collaborating, have questions, or want to discuss simila
 
 - 📧 Email: [Awaleiabdi@outlook.com](mailto:Awaleiabdi@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/awale-abdi](https://www.linkedin.com/in/awale-abdi/)  
-- 💻 GitHub Portfolio: [github.com/yourusername](https://github.com/yourusername)  
-
----
-
-_**Keywords for SEO**: Python NLP Project, Sentiment Analysis, Topic Modeling, COVID-19 Twitter Analytics, Data Science Portfolio, Social Media Campaign Strategy, Text Mining, Jupyter Notebook, GitHub NLP Projects, LDA Topic Modeling, VADER Sentiment, Twitter Data Analysis_
