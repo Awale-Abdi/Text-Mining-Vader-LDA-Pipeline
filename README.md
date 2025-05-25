@@ -57,6 +57,15 @@ By clearly communicating complex methods and findings, I enabled the team to con
 
 ## 📁 Project Structure
 
+- `Datasets/`  
+  - `COVID-19 Twitter Data.zip` – compressed archive containing the raw tweet datasets used for all analysis:  
+    - `Covid-19 Twitter Dataset (Apr-Jun 2020).csv` – tweets collected between April–June 2020  
+    - `Covid-19 Twitter Dataset (Apr-Jun 2021).csv` – tweets collected between August–October 2020  
+    - `Covid-19 Twitter Dataset (Aug-Sep 2020).csv` – tweets collected between April–June 2021  
+
+- `Outputs/`  
+  - `Social Media Analytics - Team 5 Code by Awale Abdi.ipynb` – solo-coded Jupyter Notebook covering full data pipeline: cleaning, sentiment analysis, topic modeling, and visualization  
+  - `Social Media Analytics - Team 5 Presentation.pptx` – final slide deck used for the class presentation  
 
 ## 📈 Key Insights
 
