@@ -6,7 +6,7 @@ The dataset was sourced from Kaggle and includes over **1 million tweets** colle
 
 ## 📦 Contents
 
-- [`covid19_tweets.zip`](https://covid-text-mining-vader-lda-pipeline.s3.us-east-2.amazonaws.com/COVID-19+Twitter+Data.zip) – Zipped archive containing the following CSVs:
-  - `covid19_phase1.csv`
-  - `covid19_phase2.csv`
-  - `covid19_phase3.csv`
+- [`COVID-19 Twitter Data.zip`](https://covid-text-mining-vader-lda-pipeline.s3.us-east-2.amazonaws.com/COVID-19+Twitter+Data.zip) – Zipped archive containing the following CSVs:
+  - `Covid-19 Twitter Dataset (Apr-Jun 2020).csv`
+  - `Covid-19 Twitter Dataset (Apr-Jun 2021).csv`
+  - `Covid-19 Twitter Dataset (Aug-Sep 2020).csv`
