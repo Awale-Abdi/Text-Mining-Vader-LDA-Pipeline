@@ -1,10 +1,9 @@
 <h1 align="center">COVID-19 Twitter Sentiment & Topic Modeling: NLP-Driven Social Media Campaign Analysis</h1>
 
 ## 📊 Overview
-This solo-developed NLP and machine learning project transforms **411,887 COVID-19-related tweets** into actionable business intelligence. The data was collected globally in three streaming phases aligned with major waves of the pandemic: April–June 2020 (~235k tweets), August–October 2020 (~320k), and April–June 2021 (~489k), as originally compiled by a Kaggle contributor. For this project, I independently built the entire data pipeline—handling data cleaning, sentiment analysis, topic modeling, and visualization using Python.
+This solo-developed NLP and machine learning project transforms raw Twitter data into actionable business intelligence. Originally part of a graduate-level **Social Media Analytics** course, I independently built the entire data pipeline; handling data cleaning, sentiment analysis, topic modeling, and visualization. I then walked my MBA teammates through the project’s structure and insights. This allowed them to focus on creating our PowerPoint and final presentation video, where they demonstrated a solid grasp of the technical concepts and contributed insights.
 
-I then walked my MBA teammates through the project’s structure and analytical insights, enabling them to create and present the final PowerPoint and recorded video. They demonstrated a strong understanding of the technical workflow and contributed valuable business-oriented insights. By clearly communicating complex processes and findings, I enabled the team to confidently deliver a polished, well-received presentation that showcased both data science depth and strategic communication.
-
+By clearly communicating complex methods and findings, I enabled the team to confidently deliver a polished final presentation and recorded video submission.
 
 ## 📌 Key Business Questions Answered
 - **What was the public sentiment during the early COVID-19 pandemic?**
@@ -13,7 +12,8 @@ I then walked my MBA teammates through the project’s structure and analytical 
 - **How can organizations optimize their future digital campaigns based on these insights?**
 
 ## 🧠 Tools & Technologies Used
-- **Languages**: Python (Jupyter Notebook via Visual Studio Code)
+- **Environment**: Google Colab (cloud-based Jupyter Notebook interface)
+- **Language**: Python
 - **Libraries**:
   - **NLP & Text Mining**: `nltk`, `gensim`, `re`, `string`, `sklearn`
   - **Vectorization**: `TfidfVectorizer`, `CountVectorizer`
