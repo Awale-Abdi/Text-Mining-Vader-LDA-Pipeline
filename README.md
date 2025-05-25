@@ -1,9 +1,10 @@
 <h1 align="center">COVID-19 Twitter Sentiment & Topic Modeling: NLP-Driven Social Media Campaign Analysis</h1>
 
 ## 📊 Overview
-This solo-developed NLP and machine learning project transforms over **1 million COVID-19-related tweets** into actionable business intelligence. The data was collected globally in **three streaming phases**: April–June 2020 (~235k tweets), August–October 2020 (~320k tweets), and April–June 2021 (~489k tweets), following the World Health Organization’s pandemic declaration. Originally part of a graduate-level **Social Media Analytics** course, I independently built the entire data pipeline—handling data cleaning, sentiment analysis, topic modeling, and visualization.
+This solo-developed NLP and machine learning project transforms **411,887 COVID-19-related tweets** into actionable business intelligence. The data was collected globally in three streaming phases aligned with major waves of the pandemic: April–June 2020 (~235k tweets), August–October 2020 (~320k), and April–June 2021 (~489k), as originally compiled by a Kaggle contributor. For this project, I independently built the entire data pipeline—handling data cleaning, sentiment analysis, topic modeling, and visualization using Python.
 
-I then walked my MBA teammates through the full structure and insights of the project, enabling them to focus on creating our PowerPoint and final presentation video. They demonstrated a strong understanding of the technical concepts and contributed thoughtful insights. By clearly communicating complex methods and findings, I enabled the team to confidently deliver a polished final presentation and recorded video submission.
+I then walked my MBA teammates through the project’s structure and analytical insights, enabling them to create and present the final PowerPoint and recorded video. They demonstrated a strong understanding of the technical workflow and contributed valuable business-oriented insights. By clearly communicating complex processes and findings, I enabled the team to confidently deliver a polished, well-received presentation that showcased both data science depth and strategic communication.
+
 
 ## 📌 Key Business Questions Answered
 - **What was the public sentiment during the early COVID-19 pandemic?**
