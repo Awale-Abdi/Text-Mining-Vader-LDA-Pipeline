@@ -1,3 +1,5 @@
+# 📂 Output Folder
+
 This folder contains the main deliverables for the **COVID-19 Twitter NLP Project**, which include:
 
 - The complete Jupyter Notebook with all Python code and analyses.
