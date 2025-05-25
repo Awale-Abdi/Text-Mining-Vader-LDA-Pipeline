@@ -1,9 +1,7 @@
 <h1 align="center">COVID-19 Twitter Sentiment & Topic Modeling: NLP-Driven Social Media Campaign Analysis</h1>
 
 ## 📊 Overview
-This solo-developed NLP and machine learning project transforms raw Twitter data into actionable business intelligence. Originally part of a graduate-level **Social Media Analytics** course, I independently built the entire data pipeline; handling data cleaning, sentiment analysis, topic modeling, and visualization. I then walked my MBA teammates through the project’s structure and insights. This allowed them to focus on creating our PowerPoint and final presentation video, where they demonstrated a solid grasp of the technical concepts and contributed insights.
-
-By clearly communicating complex methods and findings, I enabled the team to confidently deliver a polished final presentation and recorded video submission.
+This solo-developed NLP and machine learning project transforms raw Twitter data into actionable business intelligence. Originally part of a graduate-level Social Media Analytics course, I independently built the entire data pipeline—processing and cleaning 409,915 salvageable tweets across three Covid-19 datasets. I handled sentiment analysis, topic modeling, and data visualization, then guided my MBA teammates through the structure and findings. This enabled them to focus on building our PowerPoint and final presentation video, where they demonstrated a strong grasp of the technical concepts and added valuable insights. By clearly communicating complex methods and results, I helped the team confidently deliver a polished final presentation and recorded submission.
 
 ## 📌 Key Business Questions Answered
 - **What was the public sentiment during the early COVID-19 pandemic?**
