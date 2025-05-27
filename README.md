@@ -100,7 +100,7 @@ This solo-developed NLP and machine learning project transforms raw Twitter data
 
 ---
 
-## 📢 Contact Me
+### **Contact Me**
 
 If you're interested in collaborating, have questions, or want to discuss similar NLP projects:
 
