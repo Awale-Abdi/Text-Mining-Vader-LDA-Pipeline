@@ -1,5 +1,3 @@
-# 📂 Datasets Folder
-
 This folder only contains a link to the raw dataset used for the **COVID-19 Twitter NLP Project**.
 
 The dataset was sourced from Kaggle and includes over **1 million tweets** collected across three different time periods during the pandemic. These files were used for all cleaning, preprocessing, and modeling tasks and were too large for GitHub so Amazon S3 was utilized for storage. Link can be found below.
